@@ -7,7 +7,7 @@ class DbHelper:
         self.database = connector.connect(
             host="localhost",
             user="root",
-            password="sazclone@123"
+            password="sazclone123"
         )
 
     def __set_cursor(self):

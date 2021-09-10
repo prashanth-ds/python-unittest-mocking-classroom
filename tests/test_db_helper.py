@@ -23,4 +23,3 @@ class TestCalculator(TestCase):
         self.assertEqual(min, expected_min)
         self.assertGreater(max, min)
 
-
